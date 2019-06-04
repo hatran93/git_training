@@ -1,4 +1,4 @@
-fa32
+No conflict
 afda
 dfadfafaf
 t
@@ -6,3 +6,5 @@ his is bobika!\
 afdfadfa
 
 fdaf
+
+Hacek new line
